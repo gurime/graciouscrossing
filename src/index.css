@@ -3,6 +3,7 @@ margin: 0;
 box-sizing: border-box;
 padding: 0;
 overflow-x:hidden ;
+font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .navbar{
@@ -116,7 +117,7 @@ margin-bottom: 1rem;
 
 .navlinks a{
 margin: auto;
-font-size: 12px;
+font-size: 11px;
 }
 
 .flex-footer{

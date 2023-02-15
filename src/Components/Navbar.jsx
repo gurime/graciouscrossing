@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink} from 'react-router-dom'
-import navlogo from '../img/Gracious-crossing.png'
+import navlogo from '../img/gracious.png'
 
 export const Navbar = () => {
 return (
