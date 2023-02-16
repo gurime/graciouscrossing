@@ -11,7 +11,7 @@ return (
 <NavLink to='/'><img src={navlogo} alt="" /></NavLink>
 </div>
 <ul className='navlinks'>
-<li><NavLink to="/advertise">Advertise</NavLink></li>
+<li><NavLink to="/advertise" >Advertise</NavLink></li>
 <li><NavLink to="/manageproperty">Manage Property</NavLink></li>
 <li><NavLink to="/signin">Sign In</NavLink></li>
 <li><NavLink to="/signup">Sign up</NavLink></li>

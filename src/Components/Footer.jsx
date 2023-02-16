@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import footlogo from '../img/Gracious-crossing.png'
+import footlogo from '../img/gracious.png'
 
 const Footer = () => {
   const scrollTo = () =>{

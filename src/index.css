@@ -7,8 +7,8 @@ font-family:Georgia, 'Times New Roman', Times, serif;
 }
 
 .navbar{
-  background-color: #1d3e66;
-  padding: 10px 0;
+background-color: #1d3e66;
+padding: 10px 0;
 display:flex;
 place-content:space-evenly;
 place-items:center;
@@ -26,7 +26,10 @@ height: 36px;
 .navlinks{
 display: flex;
 place-items: center;
+margin: auto;
 }
+
+
 
 .navlinks a{
 padding:0 1rem;
@@ -81,7 +84,7 @@ cursor: pointer;
 }
 
 .footer-copyright{
-  padding: 1rem 0;
+padding: 1rem 0;
 }
 
 .footer-logo-box{
@@ -132,8 +135,7 @@ width: 100%;
 }
 
 .footer-headline{
-  border-bottom:none;
-
+border-bottom:none;
 }
 
 .footer-copyright{
